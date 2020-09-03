@@ -1,0 +1,94 @@
+/*commentaire ty zay ah...hahahaha(lol)*/
+body{
+    background-color:  #5C4E1A;
+    font-family: 'CCBellyLaughW00-Regular';
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+
+.bar1{
+    background-color: #806221;
+    color: white;
+    height: 50px;
+    margin: 80px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.bar2 {
+    background-color: #806221;
+    color: white;
+    width: 88.8%;
+    height: 35px;
+    padding-top: 35px;
+    padding-left: 150px;
+    
+}
+
+.bar2 .tet2 a {
+    margin: 7px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(190, 178, 178);
+}
+
+a:hover{
+    color: white;
+}
+
+section {
+    position: relative;
+    background-color: white;
+    margin: 80px;
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+h1.title {
+    color: #806221;
+    font-family: 'CCBellyLaughW00-Regular';
+}
+
+.carre {
+    position: relative;
+    display: inline-block;
+    background-color: #806221;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    line-height: 240px;
+    width: 240px;
+    height: 240px;
+    margin: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.line {
+    width: 100%;
+    border-bottom: 2px dashed #806221;
+}
+
+.para {
+    margin: 70px;
+}
+
+h2 {
+    color: #806221;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(80, 79, 79);
+}
