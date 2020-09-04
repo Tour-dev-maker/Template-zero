@@ -1,6 +1,6 @@
-#------------------TemplateZero-----------------
+#TemplateZero
 
-Bonjour
+Bonjour!
 
 Nous sommes le groupe 2 de la promotion SENSEI de SAYNA, on est composé de :
  [RAMILIARIMANANA Franck Schneider](https://github.com/schneider2100)      
@@ -8,3 +8,5 @@ Nous sommes le groupe 2 de la promotion SENSEI de SAYNA, on est composé de :
  ,[RATSIMBAZAFY Marko William](https://github.com/MARKOYOWAN)
  ,[Qin Dylan](https://github.com/Tour-dev-maker)
  ,et de[RAMILIARIMANANA Karl Brandt](https://github.com/KarlBrandt)
+ 
+ ##Liste des tâches de chacun
